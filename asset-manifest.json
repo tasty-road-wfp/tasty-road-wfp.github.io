@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8756c206.chunk.css",
+    "main.js": "/static/js/main.521eeab2.chunk.js",
+    "main.js.map": "/static/js/main.521eeab2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.294a514c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.294a514c.js.map",
+    "static/js/2.7fdb6811.chunk.js": "/static/js/2.7fdb6811.chunk.js",
+    "static/js/2.7fdb6811.chunk.js.map": "/static/js/2.7fdb6811.chunk.js.map",
+    "static/js/3.6028a67f.chunk.js": "/static/js/3.6028a67f.chunk.js",
+    "static/js/3.6028a67f.chunk.js.map": "/static/js/3.6028a67f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.8756c206.chunk.css.map": "/static/css/main.8756c206.chunk.css.map",
+    "static/js/2.7fdb6811.chunk.js.LICENSE.txt": "/static/js/2.7fdb6811.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/static/media/logo.103b5fa1.svg",
+    "static/media/tmapLogo.3634d587.jpg": "/static/media/tmapLogo.3634d587.jpg",
+    "static/media/wfpStandardLogo.bedfca1a.svg": "/static/media/wfpStandardLogo.bedfca1a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.294a514c.js",
+    "static/js/2.7fdb6811.chunk.js",
+    "static/css/main.8756c206.chunk.css",
+    "static/js/main.521eeab2.chunk.js"
+  ]
+}
