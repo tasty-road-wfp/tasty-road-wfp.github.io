@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.6af76160.chunk.css",
-    "main.js": "/static/js/main.e4b0f10b.chunk.js",
-    "main.js.map": "/static/js/main.e4b0f10b.chunk.js.map",
+    "main.js": "/static/js/main.2d24c829.chunk.js",
+    "main.js.map": "/static/js/main.2d24c829.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.73b0c93c.js",
     "runtime-main.js.map": "/static/js/runtime-main.73b0c93c.js.map",
     "static/js/2.2f7c28d9.chunk.js": "/static/js/2.2f7c28d9.chunk.js",
@@ -12,11 +12,11 @@
     "index.html": "/index.html",
     "static/css/main.6af76160.chunk.css.map": "/static/css/main.6af76160.chunk.css.map",
     "static/js/2.2f7c28d9.chunk.js.LICENSE.txt": "/static/js/2.2f7c28d9.chunk.js.LICENSE.txt",
-    "static/media/cardNews1.73074dc8.png": "/static/media/cardNews1.73074dc8.png",
-    "static/media/cardNews2.79b4f128.png": "/static/media/cardNews2.79b4f128.png",
-    "static/media/cardNews3.3745e11d.png": "/static/media/cardNews3.3745e11d.png",
-    "static/media/cardNews4.6e0a77ac.png": "/static/media/cardNews4.6e0a77ac.png",
-    "static/media/cardNews5.1ec577ce.png": "/static/media/cardNews5.1ec577ce.png",
+    "static/media/cardNews1.a4f210d3.png": "/static/media/cardNews1.a4f210d3.png",
+    "static/media/cardNews2.f9145778.png": "/static/media/cardNews2.f9145778.png",
+    "static/media/cardNews3.8dede21d.png": "/static/media/cardNews3.8dede21d.png",
+    "static/media/cardNews4.5f4ed559.png": "/static/media/cardNews4.5f4ed559.png",
+    "static/media/cardNews5.bc5ad6fb.png": "/static/media/cardNews5.bc5ad6fb.png",
     "static/media/logo.103b5fa1.svg": "/static/media/logo.103b5fa1.svg",
     "static/media/office.2921dc25.svg": "/static/media/office.2921dc25.svg",
     "static/media/steak.c2f5d215.png": "/static/media/steak.c2f5d215.png",
@@ -28,6 +28,6 @@
     "static/js/runtime-main.73b0c93c.js",
     "static/js/2.2f7c28d9.chunk.js",
     "static/css/main.6af76160.chunk.css",
-    "static/js/main.e4b0f10b.chunk.js"
+    "static/js/main.2d24c829.chunk.js"
   ]
 }
